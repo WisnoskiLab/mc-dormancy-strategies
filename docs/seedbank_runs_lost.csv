@@ -1,0 +1,265 @@
+predictability,synchrony,dormancy,g_mean,band,runs,lost,share_lost
+Predictable,Asynchronous patches,anticipatory,0.1,low,80,0,0
+Predictable,Asynchronous patches,anticipatory,0.1,intermediate,70,0,0
+Predictable,Asynchronous patches,anticipatory,0.1,high,50,0,0
+Predictable,Asynchronous patches,bet-hedging,0.05,low,80,0,0
+Predictable,Asynchronous patches,bet-hedging,0.05,intermediate,70,0,0
+Predictable,Asynchronous patches,bet-hedging,0.05,high,50,0,0
+Predictable,Asynchronous patches,bet-hedging,0.075,low,80,0,0
+Predictable,Asynchronous patches,bet-hedging,0.075,intermediate,70,0,0
+Predictable,Asynchronous patches,bet-hedging,0.075,high,50,0,0
+Predictable,Asynchronous patches,bet-hedging,0.1,low,80,0,0
+Predictable,Asynchronous patches,bet-hedging,0.1,intermediate,70,0,0
+Predictable,Asynchronous patches,bet-hedging,0.1,high,50,0,0
+Predictable,Asynchronous patches,bet-hedging,0.125,low,80,0,0
+Predictable,Asynchronous patches,bet-hedging,0.125,intermediate,70,0,0
+Predictable,Asynchronous patches,bet-hedging,0.125,high,50,0,0
+Predictable,Asynchronous patches,bet-hedging,0.15,low,80,0,0
+Predictable,Asynchronous patches,bet-hedging,0.15,intermediate,70,0,0
+Predictable,Asynchronous patches,bet-hedging,0.15,high,50,0,0
+Predictable,Asynchronous patches,bet-hedging,0.175,low,80,0,0
+Predictable,Asynchronous patches,bet-hedging,0.175,intermediate,70,0,0
+Predictable,Asynchronous patches,bet-hedging,0.175,high,50,0,0
+Predictable,Asynchronous patches,bet-hedging,0.2,low,80,0,0
+Predictable,Asynchronous patches,bet-hedging,0.2,intermediate,70,0,0
+Predictable,Asynchronous patches,bet-hedging,0.2,high,50,0,0
+Predictable,Asynchronous patches,bet-hedging,0.25,low,80,0,0
+Predictable,Asynchronous patches,bet-hedging,0.25,intermediate,70,0,0
+Predictable,Asynchronous patches,bet-hedging,0.25,high,50,0,0
+Predictable,Asynchronous patches,none,1,low,80,0,0
+Predictable,Asynchronous patches,none,1,intermediate,70,0,0
+Predictable,Asynchronous patches,none,1,high,50,0,0
+Predictable,Asynchronous patches,responsive,0.1,low,80,0,0
+Predictable,Asynchronous patches,responsive,0.1,intermediate,70,0,0
+Predictable,Asynchronous patches,responsive,0.1,high,50,0,0
+Predictable,Synchronous patches,anticipatory,0.1,low,80,0,0
+Predictable,Synchronous patches,anticipatory,0.1,intermediate,70,0,0
+Predictable,Synchronous patches,anticipatory,0.1,high,50,0,0
+Predictable,Synchronous patches,bet-hedging,0.05,low,80,0,0
+Predictable,Synchronous patches,bet-hedging,0.05,intermediate,70,0,0
+Predictable,Synchronous patches,bet-hedging,0.05,high,50,0,0
+Predictable,Synchronous patches,bet-hedging,0.075,low,80,0,0
+Predictable,Synchronous patches,bet-hedging,0.075,intermediate,70,0,0
+Predictable,Synchronous patches,bet-hedging,0.075,high,50,0,0
+Predictable,Synchronous patches,bet-hedging,0.1,low,80,0,0
+Predictable,Synchronous patches,bet-hedging,0.1,intermediate,70,0,0
+Predictable,Synchronous patches,bet-hedging,0.1,high,50,0,0
+Predictable,Synchronous patches,bet-hedging,0.125,low,80,0,0
+Predictable,Synchronous patches,bet-hedging,0.125,intermediate,70,0,0
+Predictable,Synchronous patches,bet-hedging,0.125,high,50,0,0
+Predictable,Synchronous patches,bet-hedging,0.15,low,80,0,0
+Predictable,Synchronous patches,bet-hedging,0.15,intermediate,70,0,0
+Predictable,Synchronous patches,bet-hedging,0.15,high,50,0,0
+Predictable,Synchronous patches,bet-hedging,0.175,low,80,0,0
+Predictable,Synchronous patches,bet-hedging,0.175,intermediate,70,0,0
+Predictable,Synchronous patches,bet-hedging,0.175,high,50,0,0
+Predictable,Synchronous patches,bet-hedging,0.2,low,80,0,0
+Predictable,Synchronous patches,bet-hedging,0.2,intermediate,70,0,0
+Predictable,Synchronous patches,bet-hedging,0.2,high,50,0,0
+Predictable,Synchronous patches,bet-hedging,0.25,low,80,0,0
+Predictable,Synchronous patches,bet-hedging,0.25,intermediate,70,0,0
+Predictable,Synchronous patches,bet-hedging,0.25,high,50,0,0
+Predictable,Synchronous patches,none,1,low,80,0,0
+Predictable,Synchronous patches,none,1,intermediate,70,0,0
+Predictable,Synchronous patches,none,1,high,50,0,0
+Predictable,Synchronous patches,responsive,0.1,low,80,0,0
+Predictable,Synchronous patches,responsive,0.1,intermediate,70,0,0
+Predictable,Synchronous patches,responsive,0.1,high,50,0,0
+Red noise,Asynchronous patches,anticipatory,0.1,low,80,0,0
+Red noise,Asynchronous patches,anticipatory,0.1,intermediate,70,0,0
+Red noise,Asynchronous patches,anticipatory,0.1,high,50,0,0
+Red noise,Asynchronous patches,bet-hedging,0.05,low,80,0,0
+Red noise,Asynchronous patches,bet-hedging,0.05,intermediate,70,0,0
+Red noise,Asynchronous patches,bet-hedging,0.05,high,50,0,0
+Red noise,Asynchronous patches,bet-hedging,0.075,low,80,0,0
+Red noise,Asynchronous patches,bet-hedging,0.075,intermediate,70,0,0
+Red noise,Asynchronous patches,bet-hedging,0.075,high,50,0,0
+Red noise,Asynchronous patches,bet-hedging,0.1,low,80,0,0
+Red noise,Asynchronous patches,bet-hedging,0.1,intermediate,70,0,0
+Red noise,Asynchronous patches,bet-hedging,0.1,high,50,0,0
+Red noise,Asynchronous patches,bet-hedging,0.125,low,80,0,0
+Red noise,Asynchronous patches,bet-hedging,0.125,intermediate,70,0,0
+Red noise,Asynchronous patches,bet-hedging,0.125,high,50,0,0
+Red noise,Asynchronous patches,bet-hedging,0.15,low,80,0,0
+Red noise,Asynchronous patches,bet-hedging,0.15,intermediate,70,0,0
+Red noise,Asynchronous patches,bet-hedging,0.15,high,50,0,0
+Red noise,Asynchronous patches,bet-hedging,0.175,low,80,0,0
+Red noise,Asynchronous patches,bet-hedging,0.175,intermediate,70,0,0
+Red noise,Asynchronous patches,bet-hedging,0.175,high,50,0,0
+Red noise,Asynchronous patches,bet-hedging,0.2,low,80,0,0
+Red noise,Asynchronous patches,bet-hedging,0.2,intermediate,70,0,0
+Red noise,Asynchronous patches,bet-hedging,0.2,high,50,0,0
+Red noise,Asynchronous patches,bet-hedging,0.25,low,80,0,0
+Red noise,Asynchronous patches,bet-hedging,0.25,intermediate,70,0,0
+Red noise,Asynchronous patches,bet-hedging,0.25,high,50,0,0
+Red noise,Asynchronous patches,none,1,low,80,0,0
+Red noise,Asynchronous patches,none,1,intermediate,70,0,0
+Red noise,Asynchronous patches,none,1,high,50,0,0
+Red noise,Asynchronous patches,responsive,0.1,low,80,0,0
+Red noise,Asynchronous patches,responsive,0.1,intermediate,70,0,0
+Red noise,Asynchronous patches,responsive,0.1,high,50,0,0
+Red noise,Synchronous patches,anticipatory,0.1,low,80,0,0
+Red noise,Synchronous patches,anticipatory,0.1,intermediate,70,0,0
+Red noise,Synchronous patches,anticipatory,0.1,high,50,0,0
+Red noise,Synchronous patches,bet-hedging,0.05,low,80,0,0
+Red noise,Synchronous patches,bet-hedging,0.05,intermediate,70,0,0
+Red noise,Synchronous patches,bet-hedging,0.05,high,50,0,0
+Red noise,Synchronous patches,bet-hedging,0.075,low,80,0,0
+Red noise,Synchronous patches,bet-hedging,0.075,intermediate,70,0,0
+Red noise,Synchronous patches,bet-hedging,0.075,high,50,0,0
+Red noise,Synchronous patches,bet-hedging,0.1,low,80,0,0
+Red noise,Synchronous patches,bet-hedging,0.1,intermediate,70,0,0
+Red noise,Synchronous patches,bet-hedging,0.1,high,50,0,0
+Red noise,Synchronous patches,bet-hedging,0.125,low,80,0,0
+Red noise,Synchronous patches,bet-hedging,0.125,intermediate,70,0,0
+Red noise,Synchronous patches,bet-hedging,0.125,high,50,0,0
+Red noise,Synchronous patches,bet-hedging,0.15,low,80,0,0
+Red noise,Synchronous patches,bet-hedging,0.15,intermediate,70,0,0
+Red noise,Synchronous patches,bet-hedging,0.15,high,50,0,0
+Red noise,Synchronous patches,bet-hedging,0.175,low,80,0,0
+Red noise,Synchronous patches,bet-hedging,0.175,intermediate,70,0,0
+Red noise,Synchronous patches,bet-hedging,0.175,high,50,0,0
+Red noise,Synchronous patches,bet-hedging,0.2,low,80,0,0
+Red noise,Synchronous patches,bet-hedging,0.2,intermediate,70,0,0
+Red noise,Synchronous patches,bet-hedging,0.2,high,50,0,0
+Red noise,Synchronous patches,bet-hedging,0.25,low,80,0,0
+Red noise,Synchronous patches,bet-hedging,0.25,intermediate,70,0,0
+Red noise,Synchronous patches,bet-hedging,0.25,high,50,0,0
+Red noise,Synchronous patches,none,1,low,80,26,0.325
+Red noise,Synchronous patches,none,1,intermediate,70,2,0.02857142857142857
+Red noise,Synchronous patches,none,1,high,50,0,0
+Red noise,Synchronous patches,responsive,0.1,low,80,0,0
+Red noise,Synchronous patches,responsive,0.1,intermediate,70,0,0
+Red noise,Synchronous patches,responsive,0.1,high,50,0,0
+White noise,Asynchronous patches,anticipatory,0.1,low,80,0,0
+White noise,Asynchronous patches,anticipatory,0.1,intermediate,70,0,0
+White noise,Asynchronous patches,anticipatory,0.1,high,50,0,0
+White noise,Asynchronous patches,bet-hedging,0.05,low,80,0,0
+White noise,Asynchronous patches,bet-hedging,0.05,intermediate,70,0,0
+White noise,Asynchronous patches,bet-hedging,0.05,high,50,0,0
+White noise,Asynchronous patches,bet-hedging,0.075,low,80,0,0
+White noise,Asynchronous patches,bet-hedging,0.075,intermediate,70,0,0
+White noise,Asynchronous patches,bet-hedging,0.075,high,50,0,0
+White noise,Asynchronous patches,bet-hedging,0.1,low,80,0,0
+White noise,Asynchronous patches,bet-hedging,0.1,intermediate,70,0,0
+White noise,Asynchronous patches,bet-hedging,0.1,high,50,0,0
+White noise,Asynchronous patches,bet-hedging,0.125,low,80,0,0
+White noise,Asynchronous patches,bet-hedging,0.125,intermediate,70,0,0
+White noise,Asynchronous patches,bet-hedging,0.125,high,50,0,0
+White noise,Asynchronous patches,bet-hedging,0.15,low,80,0,0
+White noise,Asynchronous patches,bet-hedging,0.15,intermediate,70,0,0
+White noise,Asynchronous patches,bet-hedging,0.15,high,50,0,0
+White noise,Asynchronous patches,bet-hedging,0.175,low,80,0,0
+White noise,Asynchronous patches,bet-hedging,0.175,intermediate,70,0,0
+White noise,Asynchronous patches,bet-hedging,0.175,high,50,0,0
+White noise,Asynchronous patches,bet-hedging,0.2,low,80,0,0
+White noise,Asynchronous patches,bet-hedging,0.2,intermediate,70,0,0
+White noise,Asynchronous patches,bet-hedging,0.2,high,50,0,0
+White noise,Asynchronous patches,bet-hedging,0.25,low,80,0,0
+White noise,Asynchronous patches,bet-hedging,0.25,intermediate,70,0,0
+White noise,Asynchronous patches,bet-hedging,0.25,high,50,0,0
+White noise,Asynchronous patches,none,1,low,80,0,0
+White noise,Asynchronous patches,none,1,intermediate,70,0,0
+White noise,Asynchronous patches,none,1,high,50,0,0
+White noise,Asynchronous patches,responsive,0.1,low,80,0,0
+White noise,Asynchronous patches,responsive,0.1,intermediate,70,0,0
+White noise,Asynchronous patches,responsive,0.1,high,50,0,0
+White noise,Synchronous patches,anticipatory,0.1,low,80,0,0
+White noise,Synchronous patches,anticipatory,0.1,intermediate,70,0,0
+White noise,Synchronous patches,anticipatory,0.1,high,50,0,0
+White noise,Synchronous patches,bet-hedging,0.05,low,80,0,0
+White noise,Synchronous patches,bet-hedging,0.05,intermediate,70,0,0
+White noise,Synchronous patches,bet-hedging,0.05,high,50,0,0
+White noise,Synchronous patches,bet-hedging,0.075,low,80,0,0
+White noise,Synchronous patches,bet-hedging,0.075,intermediate,70,0,0
+White noise,Synchronous patches,bet-hedging,0.075,high,50,0,0
+White noise,Synchronous patches,bet-hedging,0.1,low,80,0,0
+White noise,Synchronous patches,bet-hedging,0.1,intermediate,70,0,0
+White noise,Synchronous patches,bet-hedging,0.1,high,50,0,0
+White noise,Synchronous patches,bet-hedging,0.125,low,80,0,0
+White noise,Synchronous patches,bet-hedging,0.125,intermediate,70,0,0
+White noise,Synchronous patches,bet-hedging,0.125,high,50,0,0
+White noise,Synchronous patches,bet-hedging,0.15,low,80,0,0
+White noise,Synchronous patches,bet-hedging,0.15,intermediate,70,0,0
+White noise,Synchronous patches,bet-hedging,0.15,high,50,0,0
+White noise,Synchronous patches,bet-hedging,0.175,low,80,0,0
+White noise,Synchronous patches,bet-hedging,0.175,intermediate,70,0,0
+White noise,Synchronous patches,bet-hedging,0.175,high,50,0,0
+White noise,Synchronous patches,bet-hedging,0.2,low,80,0,0
+White noise,Synchronous patches,bet-hedging,0.2,intermediate,70,0,0
+White noise,Synchronous patches,bet-hedging,0.2,high,50,0,0
+White noise,Synchronous patches,bet-hedging,0.25,low,80,0,0
+White noise,Synchronous patches,bet-hedging,0.25,intermediate,70,0,0
+White noise,Synchronous patches,bet-hedging,0.25,high,50,0,0
+White noise,Synchronous patches,none,1,low,80,0,0
+White noise,Synchronous patches,none,1,intermediate,70,0,0
+White noise,Synchronous patches,none,1,high,50,0,0
+White noise,Synchronous patches,responsive,0.1,low,80,0,0
+White noise,Synchronous patches,responsive,0.1,intermediate,70,0,0
+White noise,Synchronous patches,responsive,0.1,high,50,0,0
+Blue noise,Asynchronous patches,anticipatory,0.1,low,80,0,0
+Blue noise,Asynchronous patches,anticipatory,0.1,intermediate,70,0,0
+Blue noise,Asynchronous patches,anticipatory,0.1,high,50,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.05,low,80,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.05,intermediate,70,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.05,high,50,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.075,low,80,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.075,intermediate,70,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.075,high,50,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.1,low,80,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.1,intermediate,70,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.1,high,50,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.125,low,80,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.125,intermediate,70,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.125,high,50,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.15,low,80,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.15,intermediate,70,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.15,high,50,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.175,low,80,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.175,intermediate,70,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.175,high,50,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.2,low,80,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.2,intermediate,70,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.2,high,50,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.25,low,80,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.25,intermediate,70,0,0
+Blue noise,Asynchronous patches,bet-hedging,0.25,high,50,0,0
+Blue noise,Asynchronous patches,none,1,low,80,0,0
+Blue noise,Asynchronous patches,none,1,intermediate,70,0,0
+Blue noise,Asynchronous patches,none,1,high,50,0,0
+Blue noise,Asynchronous patches,responsive,0.1,low,80,0,0
+Blue noise,Asynchronous patches,responsive,0.1,intermediate,70,0,0
+Blue noise,Asynchronous patches,responsive,0.1,high,50,0,0
+Blue noise,Synchronous patches,anticipatory,0.1,low,80,0,0
+Blue noise,Synchronous patches,anticipatory,0.1,intermediate,70,0,0
+Blue noise,Synchronous patches,anticipatory,0.1,high,50,0,0
+Blue noise,Synchronous patches,bet-hedging,0.05,low,80,0,0
+Blue noise,Synchronous patches,bet-hedging,0.05,intermediate,70,0,0
+Blue noise,Synchronous patches,bet-hedging,0.05,high,50,0,0
+Blue noise,Synchronous patches,bet-hedging,0.075,low,80,0,0
+Blue noise,Synchronous patches,bet-hedging,0.075,intermediate,70,0,0
+Blue noise,Synchronous patches,bet-hedging,0.075,high,50,0,0
+Blue noise,Synchronous patches,bet-hedging,0.1,low,80,0,0
+Blue noise,Synchronous patches,bet-hedging,0.1,intermediate,70,0,0
+Blue noise,Synchronous patches,bet-hedging,0.1,high,50,0,0
+Blue noise,Synchronous patches,bet-hedging,0.125,low,80,0,0
+Blue noise,Synchronous patches,bet-hedging,0.125,intermediate,70,0,0
+Blue noise,Synchronous patches,bet-hedging,0.125,high,50,0,0
+Blue noise,Synchronous patches,bet-hedging,0.15,low,80,0,0
+Blue noise,Synchronous patches,bet-hedging,0.15,intermediate,70,0,0
+Blue noise,Synchronous patches,bet-hedging,0.15,high,50,0,0
+Blue noise,Synchronous patches,bet-hedging,0.175,low,80,0,0
+Blue noise,Synchronous patches,bet-hedging,0.175,intermediate,70,0,0
+Blue noise,Synchronous patches,bet-hedging,0.175,high,50,0,0
+Blue noise,Synchronous patches,bet-hedging,0.2,low,80,0,0
+Blue noise,Synchronous patches,bet-hedging,0.2,intermediate,70,0,0
+Blue noise,Synchronous patches,bet-hedging,0.2,high,50,0,0
+Blue noise,Synchronous patches,bet-hedging,0.25,low,80,0,0
+Blue noise,Synchronous patches,bet-hedging,0.25,intermediate,70,0,0
+Blue noise,Synchronous patches,bet-hedging,0.25,high,50,0,0
+Blue noise,Synchronous patches,none,1,low,80,2,0.025
+Blue noise,Synchronous patches,none,1,intermediate,70,0,0
+Blue noise,Synchronous patches,none,1,high,50,0,0
+Blue noise,Synchronous patches,responsive,0.1,low,80,0,0
+Blue noise,Synchronous patches,responsive,0.1,intermediate,70,0,0
+Blue noise,Synchronous patches,responsive,0.1,high,50,0,0

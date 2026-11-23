@@ -1,0 +1,10 @@
+number,file,from,shows
+S01,synchronous_diversity.pdf,figures/supplement,diversity with synchronous patches: dispersal replaces dormancy only where patches are asynchronous
+S02,synchronous_stability.pdf,figures/supplement,stability at four levels with synchronous patches
+S03,synchronous_strategy_layers.pdf,figures/supplement,"cued against bet-hedging with synchronous patches, active and dormant"
+S04,pathways_seedbank.pdf,figures/supplement,"each seed bank against none: metacommunity stability split into population, among species, and among patches"
+S05,pathways_strategy.pdf,figures/supplement,"cued against bet-hedging: the same split, active and dormant"
+S06,noise_strategy_layers.pdf,figures/supplement,"cued against bet-hedging under red, white, and blue noise, active and dormant"
+S07,sensitivity.pdf,figures/supplement,"metacommunity stability as one parameter is varied: (A) each seed bank against none, (B) cued against bet-hedging"
+S08,combined_stability.pdf,figures/supplement,active and dormant combined: stability at four levels for every strategy and no dormancy
+S09,dormant_diversity.pdf,figures/supplement,"diversity of the dormant community: alpha, spatial beta, gamma"

@@ -1,0 +1,13 @@
+contrast,community,predictability,dormancy,response,band,replicates,ratio,se_log,t
+"to bet-hedging, matched emergence",active,Predictable,anticipatory,yield_per_active,low,10,0.9991064078973236,0.0017547813926694225,-0.5094603794181879
+"to bet-hedging, matched emergence",active,Predictable,anticipatory,yield_per_active,intermediate,10,0.998723480207849,0.0023928338628351454,-0.5338169345598446
+"to bet-hedging, matched emergence",active,Predictable,anticipatory,yield_per_active,high,10,1.0107572749200548,0.0037291517411150352,2.8692388516409384
+"to bet-hedging, matched emergence",active,Predictable,responsive,yield_per_active,low,10,1.0074881458661162,0.001987122001630966,3.7542983639898626
+"to bet-hedging, matched emergence",active,Predictable,responsive,yield_per_active,intermediate,10,1.0041416420490514,0.00272027313407035,1.5193654656743372
+"to bet-hedging, matched emergence",active,Predictable,responsive,yield_per_active,high,10,1.0132597807538164,0.003026325609976103,4.352684089833896
+"to bet-hedging, matched emergence",active,Red noise,anticipatory,yield_per_active,low,10,1.0017934450675388,0.0016731346698350507,1.0709471254736584
+"to bet-hedging, matched emergence",active,Red noise,anticipatory,yield_per_active,intermediate,10,0.9998440180872608,0.002693764492618281,-0.05790932340614353
+"to bet-hedging, matched emergence",active,Red noise,anticipatory,yield_per_active,high,10,1.0137549162685493,0.004683411866139853,2.9169281739292914
+"to bet-hedging, matched emergence",active,Red noise,responsive,yield_per_active,low,10,1.008715148030202,0.0014091601201606575,6.157845528518181
+"to bet-hedging, matched emergence",active,Red noise,responsive,yield_per_active,intermediate,10,1.0025482550232603,0.0019184493720296584,1.3265993691570561
+"to bet-hedging, matched emergence",active,Red noise,responsive,yield_per_active,high,10,1.0206066482130605,0.004679041656591662,4.359269514505332

@@ -1,0 +1,73 @@
+contrast,community,predictability,dormancy,response,band,replicates,ratio,se_log,t,g_realized,outside_ladder
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,alpha_div,low,5,3.4838690926913842,0.04327168764241942,28.844344938523122,0.15130935973506723,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,alpha_div,intermediate,5,3.458429756064272,0.06933833263726699,17.895074933842263,0.1508427691115962,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,alpha_div,high,5,3.403445199223196,0.054807151527896704,22.347233496565963,0.122168341494918,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,gamma_div,low,5,1.2662143270095734,0.017698043171492202,13.336593302573444,0.15130935973506723,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,gamma_div,intermediate,5,1.1563142094133287,0.03244101307614819,4.476973034944867,0.1508427691115962,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,gamma_div,high,5,2.0247439479924583,0.043863534011630956,16.082681503517804,0.122168341494918,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_community,low,5,0.822234603226341,0.02600455985474487,-7.526738401064296,0.15130935973506723,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_community,intermediate,5,1.0145405048366107,0.04449178357422218,0.32446002919920924,0.1508427691115962,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_community,high,5,1.3570237059613852,0.02626720562077816,11.622623833576904,0.122168341494918,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_metacommunity,low,5,1.8142889047106483,0.09464998041231859,6.293647397650062,0.15130935973506723,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_metacommunity,intermediate,5,1.7641392695099263,0.11240734882468563,5.050051543541236,0.1508427691115962,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_metacommunity,high,5,1.8901949494361272,0.06157148727920045,10.340500120045952,0.122168341494918,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_metapopulation,low,5,1.3525822731881585,0.03467626578214786,8.709575657285423,0.15130935973506723,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_metapopulation,intermediate,5,1.5399152323301302,0.022894908934485397,18.856915841180847,0.1508427691115962,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_metapopulation,high,5,1.5539973705272745,0.04421437615665697,9.970299214778388,0.122168341494918,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_population,low,5,0.7776297293747402,0.01633844024807805,-15.393439675229937,0.15130935973506723,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_population,intermediate,5,0.8907064462492745,0.006749028890580702,-17.149188892578128,0.1508427691115962,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,anticipatory,stab_population,high,5,1.0710189913027612,0.022051918133971185,3.111317718504269,0.122168341494918,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,alpha_div,low,5,1.5977107922216416,0.049031412171971316,9.556564437380283,0.16883179340740165,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,alpha_div,intermediate,5,1.5245855597644986,0.05836831374733892,7.225197747899589,0.16976183659037988,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,alpha_div,high,5,2.2123016722849806,0.04276109733072441,18.569061689311336,0.13088067657615107,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,gamma_div,low,5,1.1502862399579405,0.013217621457310178,10.592739107189187,0.16883179340740165,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,gamma_div,intermediate,5,1.059167673047906,0.03318756754605616,1.7320758894542496,0.16976183659037988,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,gamma_div,high,5,1.8019639852454923,0.030831242063928913,19.100014581802693,0.13088067657615107,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_community,low,5,0.5230217343078152,0.026996263240898474,-24.008221175028105,0.16883179340740165,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_community,intermediate,5,0.5632732384279825,0.036069473173473914,-15.91346898829837,0.16976183659037988,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_community,high,5,0.9324654006164381,0.029588795303864976,-2.3631658988151023,0.13088067657615107,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_metacommunity,low,5,0.7699737837662175,0.07305393692340335,-3.5781618729864944,0.16883179340740165,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_metacommunity,intermediate,5,0.7301532331591626,0.09074484569410445,-3.465771042141046,0.16976183659037988,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_metacommunity,high,5,1.165230368058514,0.059003831856322936,2.5916758875024857,0.13088067657615107,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_metapopulation,low,5,0.7307732124190863,0.03370903135101761,-9.304690693431327,0.16883179340740165,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_metapopulation,intermediate,5,0.8457851657283605,0.008808558053830086,-19.014450699005153,0.16976183659037988,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_metapopulation,high,5,1.063215106792471,0.053826425631562674,1.1387982091187083,0.13088067657615107,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_population,low,5,0.5630390181191752,0.012459605025451063,-46.10148942352709,0.16883179340740165,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_population,intermediate,5,0.6453090940168333,0.006936725437002577,-63.145913071161885,0.16976183659037988,0
+"to bet-hedging, matched emergence, low survival",active,Predictable,responsive,stab_population,high,5,0.8288192080704185,0.026465670488704598,-7.094217849684333,0.13088067657615107,0.3333333333333333
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,alpha_div,low,5,1.0375661051633396,0.021961911526394623,1.6791656258479628,0.2447325439610661,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,alpha_div,intermediate,5,0.8339529731474781,0.01927969900985346,-9.4181068508247,0.23737975582069537,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,alpha_div,high,5,1.8576498965558037,0.6778972763259857,0.9135782278423762,0.16149170710690502,0.2
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,gamma_div,low,5,1.006317161585795,0.005941348858431292,1.059909476192001,0.2447325439610661,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,gamma_div,intermediate,5,1.1063913767862692,0.02464288297854827,4.1027548394963365,0.23737975582069537,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,gamma_div,high,5,2.1154682460675422,0.4212231181898324,1.7788106791339537,0.16149170710690502,0.2
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_community,low,5,0.9653643862677113,0.004275857420436051,-8.243877917571522,0.2447325439610661,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_community,intermediate,5,0.9375313815020563,0.01407568476568185,-4.582728952049073,0.23737975582069537,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_community,high,5,1.1786153303860376,0.26784330138216167,0.6135688283932315,0.16149170710690502,0.2
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_metacommunity,low,5,0.6371845469183853,0.021722096315758364,-20.748271540158438,0.2447325439610661,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_metacommunity,intermediate,5,0.6111346745605634,0.03341218064784629,-14.738275620482737,0.23737975582069537,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_metacommunity,high,5,1.065499337818868,0.32859148736714366,0.1930772814297089,0.16149170710690502,0.2
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_metapopulation,low,5,0.7834408779583021,0.018475803327244064,-13.209692406993002,0.2447325439610661,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_metapopulation,intermediate,5,0.7929200041978643,0.03394238969710796,-6.8360814290489715,0.23737975582069537,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_metapopulation,high,5,1.1197651049701278,0.26594474119143885,0.42534751805602156,0.16149170710690502,0.2
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_population,low,5,0.9990903245622627,0.0059401333800915635,-0.15321027076285867,0.2447325439610661,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_population,intermediate,5,1.2200111251357406,0.016980009092129766,11.711417619881084,0.23737975582069537,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,anticipatory,stab_population,high,5,1.2732964086519691,0.22081454177215465,1.09417220962898,0.16149170710690502,0.2
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,alpha_div,low,5,0.7624957497266833,0.03488688689413868,-7.772500466087817,0.19646187243264196,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,alpha_div,intermediate,5,0.782211273179607,0.03942610322247737,-6.2301466425373455,0.1915877757887623,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,alpha_div,high,5,2.450857295121608,0.6597618709907582,1.3587294433674566,0.14200642697949586,0.26666666666666666
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,gamma_div,low,5,1.0159301695024572,0.006948171474025525,2.2746439187108027,0.19646187243264196,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,gamma_div,intermediate,5,1.0384376934079993,0.012760631887532485,2.955760039803461,0.1915877757887623,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,gamma_div,high,5,2.2989333410980453,0.39098535770488785,2.129095717316654,0.14200642697949586,0.26666666666666666
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_community,low,5,0.4731975935036539,0.01252927173463923,-59.719531056379445,0.19646187243264196,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_community,intermediate,5,0.49588454963694145,0.02193898502486242,-31.971038832678484,0.1915877757887623,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_community,high,5,0.9330721122744784,0.27267111632783364,-0.25405254248937315,0.14200642697949586,0.26666666666666666
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_metacommunity,low,5,0.4550391754596764,0.02364058948629081,-33.30592768352041,0.19646187243264196,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_metacommunity,intermediate,5,0.5148195508567297,0.032168595005191106,-20.639347981998572,0.1915877757887623,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_metacommunity,high,5,1.0613398145089876,0.31395799728923174,0.1896179949061484,0.14200642697949586,0.26666666666666666
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_metapopulation,low,5,0.4723877024489504,0.018199374732300187,-41.20774686502023,0.19646187243264196,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_metapopulation,intermediate,5,0.5601862810913447,0.03144397873792088,-18.429153339368494,0.1915877757887623,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_metapopulation,high,5,0.9036439710088856,0.2749100673394316,-0.36855628651358696,0.14200642697949586,0.26666666666666666
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_population,low,5,0.5239320879465442,0.008235107314240963,-78.49238407591268,0.19646187243264196,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_population,intermediate,5,0.6180485048238434,0.013942241229604623,-34.51298323634328,0.1915877757887623,0
+"to bet-hedging, matched emergence, low survival",active,Red noise,responsive,stab_population,high,5,0.8563245164101341,0.226113578018298,-0.6859644081849128,0.14200642697949586,0.26666666666666666

@@ -1,0 +1,9 @@
+"scenario","percent_mean","percent_min","percent_max","replicates"
+"predictable_asynchronous_color0",0.897333333333333,0.816666666666667,0.983333333333333,10
+"predictable_synchronous_color0",1.07433333333333,0.773333333333333,1.35333333333333,10
+"unpredictable_asynchronous_color-0.6",5.21466666666667,4.92333333333333,5.51,10
+"unpredictable_asynchronous_color0",5.15266666666667,4.96,5.44,10
+"unpredictable_asynchronous_color0.6",5.08433333333333,4.62666666666667,5.64,10
+"unpredictable_synchronous_color-0.6",4.81966666666667,2.72333333333333,6.27,10
+"unpredictable_synchronous_color0",5.51633333333333,3.65333333333333,6.74333333333333,10
+"unpredictable_synchronous_color0.6",5.311,4.03,6.21333333333333,10

@@ -1,0 +1,121 @@
+contrast,dormancy_type,predictability,parameter,parameter_value,replicates,ratio,ratio_low,ratio_high,parameter_label
+to bet-hedging,Anticipatory,Predictable,beta,0.5,5,0.8912307661345601,0.8467043311491319,0.9380987545283909,Responsiveness
+to bet-hedging,Anticipatory,Predictable,beta,1.5,5,0.6078729816632211,0.5566367383752403,0.6638253215457741,Responsiveness
+to bet-hedging,Anticipatory,Predictable,beta,3,5,0.4861875845376489,0.4473984599993414,0.5283396982611461,Responsiveness
+to bet-hedging,Anticipatory,Predictable,g_mean,0.1,5,0.6078729816632211,0.5566367383752403,0.6638253215457741,Emergence
+to bet-hedging,Anticipatory,Predictable,g_mean,0.3,5,0.7200772649044287,0.6651590949334688,0.7795296965519292,Emergence
+to bet-hedging,Anticipatory,Predictable,g_mean,0.5,5,0.869926838636962,0.8349976766520326,0.9063171380490771,Emergence
+to bet-hedging,Anticipatory,Predictable,niche_breadth,0.075,5,0.6607388817577496,0.6171510583022998,0.70740520330216,Niche breadth
+to bet-hedging,Anticipatory,Predictable,niche_breadth,0.1,5,0.6078729816632211,0.5566367383752403,0.6638253215457741,Niche breadth
+to bet-hedging,Anticipatory,Predictable,niche_breadth,0.15,5,0.5946982183637464,0.5362042392123257,0.6595732466504609,Niche breadth
+to bet-hedging,Anticipatory,Predictable,survival,0.8,5,6.2827823902206665,5.7014413130334365,6.923399259171751,Survival in the bank
+to bet-hedging,Anticipatory,Predictable,survival,0.95,5,0.6078729816632211,0.5566367383752403,0.6638253215457741,Survival in the bank
+to bet-hedging,Anticipatory,Predictable,survival,0.99,5,0.504729592829556,0.4411275543576583,0.5775018118032613,Survival in the bank
+to bet-hedging,Anticipatory,Red noise,beta,0.5,5,0.8152464577001426,0.8093605205503124,0.8211751993298705,Responsiveness
+to bet-hedging,Anticipatory,Red noise,beta,1.5,5,0.5119681676080071,0.493315519284858,0.5313260872552197,Responsiveness
+to bet-hedging,Anticipatory,Red noise,beta,3,5,0.36280082862650714,0.3492706806313823,0.37685511138278355,Responsiveness
+to bet-hedging,Anticipatory,Red noise,g_mean,0.1,5,0.5119681676080071,0.493315519284858,0.5313260872552197,Emergence
+to bet-hedging,Anticipatory,Red noise,g_mean,0.3,5,0.6404588266736055,0.6284430021978236,0.6527043936038787,Emergence
+to bet-hedging,Anticipatory,Red noise,g_mean,0.5,5,0.65696598427379,0.6388315313041201,0.6756152183217169,Emergence
+to bet-hedging,Anticipatory,Red noise,niche_breadth,0.075,5,0.5036954542322593,0.49030490552055905,0.5174517076162594,Niche breadth
+to bet-hedging,Anticipatory,Red noise,niche_breadth,0.1,5,0.5119681676080071,0.493315519284858,0.5313260872552197,Niche breadth
+to bet-hedging,Anticipatory,Red noise,niche_breadth,0.15,5,0.47995533273875457,0.460001481389067,0.5007747382220574,Niche breadth
+to bet-hedging,Anticipatory,Red noise,survival,0.8,5,2.63563483495975,2.436801399954757,2.8506922982653746,Survival in the bank
+to bet-hedging,Anticipatory,Red noise,survival,0.95,5,0.5119681676080071,0.493315519284858,0.5313260872552197,Survival in the bank
+to bet-hedging,Anticipatory,Red noise,survival,0.99,5,0.45094872939339503,0.43105698645371926,0.47175840534335195,Survival in the bank
+to bet-hedging,Responsive,Predictable,beta,0.5,5,0.6926749571557859,0.6658059374773861,0.720628293115914,Responsiveness
+to bet-hedging,Responsive,Predictable,beta,1.5,5,0.4485186210202601,0.4226699634080497,0.4759480701677049,Responsiveness
+to bet-hedging,Responsive,Predictable,beta,3,5,0.35597701370813495,0.34018881168977033,0.372497948004597,Responsiveness
+to bet-hedging,Responsive,Predictable,g_mean,0.1,5,0.4485186210202601,0.4226699634080497,0.4759480701677049,Emergence
+to bet-hedging,Responsive,Predictable,g_mean,0.3,5,0.5341782648153042,0.5161103621865679,0.552878685465997,Emergence
+to bet-hedging,Responsive,Predictable,g_mean,0.5,5,0.6708412034427536,0.6409886328686139,0.7020840887965731,Emergence
+to bet-hedging,Responsive,Predictable,niche_breadth,0.075,5,0.4884720649943062,0.4621227537822104,0.5163237610071276,Niche breadth
+to bet-hedging,Responsive,Predictable,niche_breadth,0.1,5,0.4485186210202601,0.4226699634080497,0.4759480701677049,Niche breadth
+to bet-hedging,Responsive,Predictable,niche_breadth,0.15,5,0.45664988910330295,0.4277816307818474,0.48746628235750716,Niche breadth
+to bet-hedging,Responsive,Predictable,survival,0.8,5,4.19567390853401,3.9035658683489842,4.509640708124786,Survival in the bank
+to bet-hedging,Responsive,Predictable,survival,0.95,5,0.4485186210202601,0.4226699634080497,0.4759480701677049,Survival in the bank
+to bet-hedging,Responsive,Predictable,survival,0.99,5,0.384507789171164,0.3572601713723941,0.41383353583847204,Survival in the bank
+to bet-hedging,Responsive,Red noise,beta,0.5,5,0.6500715462649386,0.6430641448478847,0.6571553065880412,Responsiveness
+to bet-hedging,Responsive,Red noise,beta,1.5,5,0.44731078898333093,0.4453093662999292,0.44932120696991024,Responsiveness
+to bet-hedging,Responsive,Red noise,beta,3,5,0.3881582497162516,0.38476179698351404,0.39158468435274413,Responsiveness
+to bet-hedging,Responsive,Red noise,g_mean,0.1,5,0.44731078898333093,0.4453093662999292,0.44932120696991024,Emergence
+to bet-hedging,Responsive,Red noise,g_mean,0.3,5,0.5775936502693337,0.569268781157245,0.5860402605483849,Emergence
+to bet-hedging,Responsive,Red noise,g_mean,0.5,5,0.7163602395551083,0.7089353721537056,0.7238628695539124,Emergence
+to bet-hedging,Responsive,Red noise,niche_breadth,0.075,5,0.515263022045706,0.5124930341466396,0.5180479815296519,Niche breadth
+to bet-hedging,Responsive,Red noise,niche_breadth,0.1,5,0.44731078898333093,0.4453093662999292,0.44932120696991024,Niche breadth
+to bet-hedging,Responsive,Red noise,niche_breadth,0.15,5,0.36225278394764765,0.3549989799227349,0.3696548071951715,Niche breadth
+to bet-hedging,Responsive,Red noise,survival,0.8,5,1.9261479673430073,1.7891456778413912,2.073641089179378,Survival in the bank
+to bet-hedging,Responsive,Red noise,survival,0.95,5,0.44731078898333093,0.4453093662999292,0.44932120696991024,Survival in the bank
+to bet-hedging,Responsive,Red noise,survival,0.99,5,0.39504717351177426,0.3909185062332477,0.3992194455141115,Survival in the bank
+to none,Bet-hedging,Predictable,beta,0.5,5,2.1400707441164277,2.039754997565644,2.2453200483827462,Responsiveness
+to none,Bet-hedging,Predictable,beta,1.5,5,2.1400707441164277,2.039754997565644,2.2453200483827462,Responsiveness
+to none,Bet-hedging,Predictable,beta,3,5,2.1400707441164277,2.039754997565644,2.2453200483827462,Responsiveness
+to none,Bet-hedging,Predictable,g_mean,0.1,5,2.1400707441164277,2.039754997565644,2.2453200483827462,Emergence
+to none,Bet-hedging,Predictable,g_mean,0.3,5,1.9147456026481364,1.8710768629511723,1.9594335195176054,Emergence
+to none,Bet-hedging,Predictable,g_mean,0.5,5,1.4742878211443442,1.4377620659719765,1.5117414981352706,Emergence
+to none,Bet-hedging,Predictable,niche_breadth,0.075,5,6.016039027674372,5.85125903210881,6.185459468448322,Niche breadth
+to none,Bet-hedging,Predictable,niche_breadth,0.1,5,2.1400707441164277,2.039754997565644,2.2453200483827462,Niche breadth
+to none,Bet-hedging,Predictable,niche_breadth,0.15,5,1.6321246094805761,1.5099984701963356,1.7641281057230225,Niche breadth
+to none,Bet-hedging,Predictable,survival,0.8,5,0.1118611887642651,0.10408113625097085,0.12022279927442502,Survival in the bank
+to none,Bet-hedging,Predictable,survival,0.95,5,2.1400707441164277,2.039754997565644,2.2453200483827462,Survival in the bank
+to none,Bet-hedging,Predictable,survival,0.99,5,2.838205366760418,2.7035181767546748,2.979602568671248,Survival in the bank
+to none,Bet-hedging,Red noise,beta,0.5,5,3.99752831662598,3.868381123976908,4.130987131329497,Responsiveness
+to none,Bet-hedging,Red noise,beta,1.5,5,3.99752831662598,3.868381123976908,4.130987131329497,Responsiveness
+to none,Bet-hedging,Red noise,beta,3,5,3.99752831662598,3.868381123976908,4.130987131329497,Responsiveness
+to none,Bet-hedging,Red noise,g_mean,0.1,5,3.99752831662598,3.868381123976908,4.130987131329497,Emergence
+to none,Bet-hedging,Red noise,g_mean,0.3,5,3.2229111331808156,3.1320896353715857,3.3163661905060824,Emergence
+to none,Bet-hedging,Red noise,g_mean,0.5,5,2.5981009960902193,2.5312231568948214,2.666745825036506,Emergence
+to none,Bet-hedging,Red noise,niche_breadth,0.075,5,3.2225954689347622,3.065303495269986,3.3879586711149323,Niche breadth
+to none,Bet-hedging,Red noise,niche_breadth,0.1,5,3.99752831662598,3.868381123976908,4.130987131329497,Niche breadth
+to none,Bet-hedging,Red noise,niche_breadth,0.15,5,2.0595939535950185,2.0065646584474903,2.1140247017841935,Niche breadth
+to none,Bet-hedging,Red noise,survival,0.8,5,0.5857996193132441,0.5387235761466931,0.6369893748516767,Survival in the bank
+to none,Bet-hedging,Red noise,survival,0.95,5,3.99752831662598,3.868381123976908,4.130987131329497,Survival in the bank
+to none,Bet-hedging,Red noise,survival,0.99,5,5.2004414260821825,5.060977602929154,5.343748411464817,Survival in the bank
+to none,Anticipatory,Predictable,beta,0.5,5,1.9072968888610418,1.8855626318343137,1.9292816694824406,Responsiveness
+to none,Anticipatory,Predictable,beta,1.5,5,1.3008911841962814,1.2311501543186476,1.3745828379936145,Responsiveness
+to none,Anticipatory,Predictable,beta,3,5,1.0404758258216549,0.9779871262556471,1.1069572544007742,Responsiveness
+to none,Anticipatory,Predictable,g_mean,0.1,5,1.3008911841962814,1.2311501543186476,1.3745828379936145,Emergence
+to none,Anticipatory,Predictable,g_mean,0.3,5,1.3787647765426523,1.2937622589296598,1.4693521131211666,Emergence
+to none,Anticipatory,Predictable,g_mean,0.5,5,1.2825225434890741,1.2261069503588067,1.3415339290559707,Emergence
+to none,Anticipatory,Predictable,niche_breadth,0.075,5,3.9750308997565442,3.7301112812972588,4.236031973964082,Niche breadth
+to none,Anticipatory,Predictable,niche_breadth,0.1,5,1.3008911841962814,1.2311501543186476,1.3745828379936145,Niche breadth
+to none,Anticipatory,Predictable,niche_breadth,0.15,5,0.9706215974057238,0.914995076754473,1.0296298955969587,Niche breadth
+to none,Anticipatory,Predictable,survival,0.8,5,0.7299051630113265,0.6989333956193,0.7622493793110715,Survival in the bank
+to none,Anticipatory,Predictable,survival,0.95,5,1.3008911841962814,1.2311501543186476,1.3745828379936145,Survival in the bank
+to none,Anticipatory,Predictable,survival,0.99,5,1.4325262391316465,1.3023358466314607,1.5757313530980293,Survival in the bank
+to none,Anticipatory,Red noise,beta,0.5,5,3.2589707996853443,3.1402205024246532,3.382211747551181,Responsiveness
+to none,Anticipatory,Red noise,beta,1.5,5,2.046607247224124,1.9349002621466804,2.1647633763526666,Responsiveness
+to none,Anticipatory,Red noise,beta,3,5,1.4503065857298318,1.3686624989097869,1.5368209432835227,Responsiveness
+to none,Anticipatory,Red noise,g_mean,0.1,5,2.046607247224124,1.9349002621466804,2.1647633763526666,Emergence
+to none,Anticipatory,Red noise,g_mean,0.3,5,2.0641418828302855,1.994048705543011,2.136698918441867,Emergence
+to none,Anticipatory,Red noise,g_mean,0.5,5,1.7068639781391255,1.6357283764993626,1.7810931703122264,Emergence
+to none,Anticipatory,Red noise,niche_breadth,0.075,5,1.8628943197463554,1.773589732357479,1.9566956118596648,Niche breadth
+to none,Anticipatory,Red noise,niche_breadth,0.1,5,2.046607247224124,1.9349002621466804,2.1647633763526666,Niche breadth
+to none,Anticipatory,Red noise,niche_breadth,0.15,5,0.988513101304424,0.9265413573300705,1.05462982706598,Niche breadth
+to none,Anticipatory,Red noise,survival,0.8,5,1.4506424291606947,1.3853930673436554,1.5189649110314485,Survival in the bank
+to none,Anticipatory,Red noise,survival,0.95,5,2.046607247224124,1.9349002621466804,2.1647633763526666,Survival in the bank
+to none,Anticipatory,Red noise,survival,0.99,5,2.345132453376536,2.1965795836311006,2.5037318314634187,Survival in the bank
+to none,Responsive,Predictable,beta,0.5,5,1.4823734109911972,1.460876866903649,1.5041862729137234,Responsiveness
+to none,Responsive,Predictable,beta,1.5,5,0.9598615790369021,0.9339741552911669,0.9864665373143956,Responsiveness
+to none,Responsive,Predictable,beta,3,5,0.761815992614712,0.7300977466422386,0.794912200828813,Responsiveness
+to none,Responsive,Predictable,g_mean,0.1,5,0.9598615790369021,0.9339741552911669,0.9864665373143956,Emergence
+to none,Responsive,Predictable,g_mean,0.3,5,1.0228154835853156,0.997960743586309,1.0482892440261464,Emergence
+to none,Responsive,Predictable,g_mean,0.5,5,0.9890130161574668,0.953073728910933,1.0263075315763948,Emergence
+to none,Responsive,Predictable,niche_breadth,0.075,5,2.9386670069344385,2.7730248869367737,3.1142034888783563,Niche breadth
+to none,Responsive,Predictable,niche_breadth,0.1,5,0.9598615790369021,0.9339741552911669,0.9864665373143956,Niche breadth
+to none,Responsive,Predictable,niche_breadth,0.15,5,0.7453095219220768,0.6996101935384951,0.7939939820747477,Niche breadth
+to none,Responsive,Predictable,survival,0.8,5,0.4955154825522983,0.4854458751207146,0.505793963926422,Survival in the bank
+to none,Responsive,Predictable,survival,0.95,5,0.9598615790369021,0.9339741552911669,0.9864665373143956,Survival in the bank
+to none,Responsive,Predictable,survival,0.99,5,1.0913120707867812,1.0501938379647355,1.1340402055233956,Survival in the bank
+to none,Responsive,Red noise,beta,0.5,5,2.5986794140269276,2.5325246697520365,2.6665622560543683,Responsiveness
+to none,Responsive,Red noise,beta,1.5,5,1.788137545293174,1.7358976636368482,1.8419495272481716,Responsiveness
+to none,Responsive,Red noise,beta,3,5,1.551673594572694,1.4997305912891008,1.6054156380344304,Responsiveness
+to none,Responsive,Red noise,g_mean,0.1,5,1.788137545293174,1.7358976636368482,1.8419495272481716,Emergence
+to none,Responsive,Red noise,g_mean,0.3,5,1.8615330059075823,1.8167696387305494,1.9073992971969014,Emergence
+to none,Responsive,Red noise,g_mean,0.5,5,1.861176251947555,1.8146982986092837,1.9088445960787035,Emergence
+to none,Responsive,Red noise,niche_breadth,0.075,5,1.9050588228824492,1.8365525134205813,1.976120525888357,Niche breadth
+to none,Responsive,Red noise,niche_breadth,0.1,5,1.788137545293174,1.7358976636368482,1.8419495272481716,Niche breadth
+to none,Responsive,Red noise,niche_breadth,0.15,5,0.7460936434915376,0.7289568284443106,0.763633322492436,Niche breadth
+to none,Responsive,Red noise,survival,0.8,5,1.0856798881118919,1.0309776964807154,1.143284499242024,Survival in the bank
+to none,Responsive,Red noise,survival,0.95,5,1.788137545293174,1.7358976636368482,1.8419495272481716,Survival in the bank
+to none,Responsive,Red noise,survival,0.99,5,2.0544196863873063,1.990443011718946,2.120452694684675,Survival in the bank

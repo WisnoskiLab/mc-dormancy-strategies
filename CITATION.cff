@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+type: software
+title: "Code for: Dormancy strategy, dispersal, and environmental predictability regulate metacommunity diversity and stability across scales"
+authors:
+  - family-names: Wisnoski
+    given-names: Nathan I.
+    affiliation: Mississippi State University
+    orcid: "https://orcid.org/0000-0002-2929-5231"
+repository-code: "https://github.com/WisnoskiLab/mc-dormancy-strategies"
+license: GPL-3.0-only
+abstract: >-
+  Simulation and analysis code for a metacommunity model in which species with
+  a seasonal active stage and a bank of dormant propagules compete in patches
+  whose conditions fluctuate through time. The code runs the simulations and
+  draws the figures of the paper, comparing no dormancy with bet-hedging,
+  anticipatory, and responsive dormancy along a gradient of dispersal rate, in
+  environments that differ in temporal predictability and spatial synchrony.
+keywords:
+  - dormancy
+  - seed bank
+  - bet hedging
+  - dispersal
+  - metacommunity
+  - stability
+  - synchrony
